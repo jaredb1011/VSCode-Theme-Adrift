@@ -21,7 +21,9 @@
   },
   "license":"SEE LICENSE IN LICENSE.txt",
   "pricing":"Free",
-  "sponsor":"https://ko-fi.com/jboggsdev",
+  "sponsor": {
+    "url":"https://ko-fi.com/jboggsdev"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/jaredb1011/VSCode-Theme-Adrift.git"
