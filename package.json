@@ -1,0 +1,21 @@
+{
+  "name": "adrift",
+  "displayName": "Adrift",
+  "description": "A moody night-time ocean color theme. Sea foam and cyan.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Adrift",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Adrift-color-theme.json"
+      }
+    ]
+  }
+}
