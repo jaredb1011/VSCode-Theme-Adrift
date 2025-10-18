@@ -1,9 +1,6 @@
 # Change Log
 
-All notable changes to the "adrift" extension will be documented in this file.
+## [Released]
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+- Initial release of Adrift theme.
 
-## [Unreleased]
-
-- Initial release

@@ -1,14 +1,30 @@
 {
-  "name": "adrift",
+  "name": "adrift-theme",
   "displayName": "Adrift",
-  "description": "A moody night-time ocean color theme. Sea foam and cyan.",
   "version": "0.0.1",
+  "description": "A moody night-time ocean inspired dark theme. Sea foam and cyan.",
+  "author": {
+    "name": "Jared Boggs",
+    "email": "contact@jaredboggs.com",
+    "url": "https://jaredboggs.com"
+  },
+  "categories": ["Themes"],
+  "icon":"./images/rowboat.jpg",
+  "galleryBanner": {
+    "color": "#293D31",
+    "theme":"dark"
+  },
+  "keywords": ["dark", "theme", "low-distraction", "color-theme", "omarchy", "color", "ocean", "sea", "blue", "green", "moody", "calm"],
   "engines": {
     "vscode": "^1.105.0"
   },
-  "categories": [
-    "Themes"
-  ],
+  "license":"SEE LICENSE IN LICENSE.txt",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaredb1011/VSCode-Theme-Adrift.git"
+  },
+  "homepage": "https://github.com/jaredb1011/VSCode-Theme-Adrift/blob/master/README.md",
+  "extensionKind":["ui"],
   "contributes": {
     "themes": [
       {

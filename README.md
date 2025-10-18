@@ -1,16 +1,15 @@
-# adrift README
+# Adrift Theme
 
-## Working with Markdown
+Adrift is a simple blue and green dark theme for VSCode. It was originally created to be a subset of the Adrift theme for [Omarchy Linux](https://omarchy.org).
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Adrift is inspired by shipwrecks, the sea foam at night, and that odd sense of calm in the middle of a storm.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+### Links
 
-## For more information
+* [Github Repo](https://github.com/jaredb1011/VSCode-Theme-Adrift)
+* (omarchy theme link here)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### License
+* This theme is available under the MIT license.
 
 **Enjoy!**
