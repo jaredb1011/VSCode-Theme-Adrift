@@ -8,6 +8,7 @@ Adrift is inspired by shipwrecks, the sea foam at night, and that odd sense of c
 
 * [Github Repo](https://github.com/jaredb1011/VSCode-Theme-Adrift)
 * (omarchy theme link here)
+* [Tip Jar](https://ko-fi.com/jboggsdev)
 
 ### License
 * This theme is available under the MIT license.

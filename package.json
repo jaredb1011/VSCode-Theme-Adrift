@@ -1,8 +1,9 @@
 {
   "name": "adrift-theme",
   "displayName": "Adrift",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A moody night-time ocean inspired dark theme. Sea foam and cyan.",
+  "publisher": "JBoggsDev",
   "author": {
     "name": "Jared Boggs",
     "email": "contact@jaredboggs.com",
@@ -19,6 +20,8 @@
     "vscode": "^1.105.0"
   },
   "license":"SEE LICENSE IN LICENSE.txt",
+  "pricing":"Free",
+  "sponsor":"https://ko-fi.com/jboggsdev",
   "repository": {
     "type": "git",
     "url": "https://github.com/jaredb1011/VSCode-Theme-Adrift.git"
