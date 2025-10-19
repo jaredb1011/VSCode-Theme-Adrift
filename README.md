@@ -11,6 +11,7 @@ Adrift is inspired by shipwrecks, the sea foam at night, and that odd sense of c
 ### Links
 
 * [Github Repo](https://github.com/jaredb1011/VSCode-Theme-Adrift)
+* [Adrift Omarchy Theme](https://github.com/jaredb1011/omarchy-adrift-theme)
 * [Tip Jar](https://ko-fi.com/jboggsdev)
 
 ### License
